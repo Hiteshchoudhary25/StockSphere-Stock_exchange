@@ -30,7 +30,7 @@ function Awards() {
                         </div>
                     </div>
                     <div className='mt-4'>
-                    <img src='media/images/pressLogos.png' style={{width:"90%"}}/>
+                    <img src='media/images/pressLogos.png' alt='logo-image' style={{width:"90%"}}/>
                     </div>
                 </div>
             </div>
