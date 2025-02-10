@@ -7,7 +7,7 @@ import Signup from './landing_page/signup/SignUp';
 import About from './landing_page/about/AboutPage';
 import Support from './landing_page/support/SupportPage';
 import Product from './landing_page/products/ProductPage';
-import Pricing from './landing_page/home/Pricing';
+import Pricing from './landing_page/pricing/PricingPage';
 import Navbar from './landing_page/Navbar';
 import Footer from './landing_page/Footer';
 import NotFound from './landing_page/NotFound';
