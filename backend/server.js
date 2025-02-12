@@ -10,7 +10,7 @@ const app = express();
 
 import connectToMongoose from "./db/connectToMongoose.js";
 
-connectToMongoose(dbUrl);
+// connectToMongoose(dbUrl);
 
 
 
