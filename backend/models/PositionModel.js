@@ -1,7 +1,7 @@
 import { model } from "mongoose";
 
-import { PositionSchema } from "../schemas/PositionSchema";
+import  PositionSchema  from "../schemas/PositionSchema.js";
 
-const PositionModel = new model("position" , PositionModel);
+const PositionModel = new model("position" , PositionSchema);
 
-module.exports = {PositionModel};
+export default PositionModel;

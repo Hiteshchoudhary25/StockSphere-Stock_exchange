@@ -1,4 +1,4 @@
-import { Schema } from "mongoose";
+import  {Schema}  from "mongoose";
 
 const PositionSchema = new Schema({
     product:String,
@@ -10,4 +10,4 @@ const PositionSchema = new Schema({
     isLoss:Boolean,
 });
 
-module.exports = {PositionSchema};
+export default PositionSchema;
